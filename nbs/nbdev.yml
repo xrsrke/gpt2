@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "gpt2"
+  site-url: "https://xrsrke.github.io/gpt2"
+  description: "Implementation of GPT-2"
+  repo-branch: main
+  repo-url: "https://github.com/xrsrke/gpt2"
