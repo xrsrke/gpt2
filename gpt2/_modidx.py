@@ -21,4 +21,5 @@ d = { 'settings': { 'branch': 'main',
                             'gpt2.model.MultiHeadAttention': ('model.html#multiheadattention', 'gpt2/model.py'),
                             'gpt2.model.MultiHeadAttention.__init__': ('model.html#multiheadattention.__init__', 'gpt2/model.py'),
                             'gpt2.model.MultiHeadAttention.forward': ('model.html#multiheadattention.forward', 'gpt2/model.py')},
-            'gpt2.trainer': {}}}
+            'gpt2.trainer': { 'gpt2.trainer.estimate_loss': ('train.html#estimate_loss', 'gpt2/trainer.py'),
+                              'gpt2.trainer.get_batch': ('train.html#get_batch', 'gpt2/trainer.py')}}}
